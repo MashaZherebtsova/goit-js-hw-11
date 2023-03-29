@@ -7,7 +7,6 @@ import throttle from 'lodash.throttle';
 
 
 
-
 const { searchForm, gallery, loadMoreBtn, endCollectionText } = {
   searchForm: document.querySelector('.search-form'),
   gallery: document.querySelector('.gallery'),
